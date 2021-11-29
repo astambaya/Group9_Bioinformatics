@@ -24,9 +24,9 @@ The group collaboratly work together to see they conducted the project as expect
 14. Ismail Bashi
 15. Umar Abbakar Sadiq
 
-### Names         
+###            
 
-| Names      |###Programming lan|
+| Names                  |Programming lang|
 | ---------------------- | ------------- |
 | Abubakar Sani          | Javascript  |
 | Usman Aliyu            | R           |
