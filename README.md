@@ -1,4 +1,14 @@
-# Group9_Bioinformatics
-## hello im testiong
-### still testing
-#### still
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| Abubakar Sani  | Javascript  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
