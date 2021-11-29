@@ -1,9 +1,17 @@
 # Group9_Bioinformatics C.A
 
 
+
+
+
 ## About the Group 
 This is group nine, which is lead by Abubakar Sani, it consist of 15 members. 
 The group collaboratly work together to see they conducted the project as expected by the lecturer.
+
+
+
+
+
 
 
 ### Names of All Members of the Group
@@ -24,10 +32,13 @@ The group collaboratly work together to see they conducted the project as expect
 14. Ismail Bashi
 15. Umar Abbakar Sadiq
 
+
+
+
 ###            
 
-| Names                  |Programming lang|
-| ---------------------- | ------------- |
+| NAMES                  |PROGRAMMING LANG|
+| ---------------------- | -------------  |
 | Abubakar Sani          | Javascript  |
 | Usman Aliyu            | R           |
 | Asiya Tijjani Abubakar |javascript   |
