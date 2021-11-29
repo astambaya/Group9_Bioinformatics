@@ -18,23 +18,38 @@ The group collaboratly work together to see they conducted the project as expect
 8. Mudassir Alhassan
 9. Usman Saidu
 10. shuaibu s Noma
-11. 
+11. Muhammad YUsuf Saidu
+12. Abbakar Ibrahim Ahmad
+13. Michael Bulus Alpha
+14. Ismail Bashi
+15. Umar Abbakar Sadiq
 
-### Names         Programming lan
+### Names         
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Abubakar Sani  | Javascript  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| ###Names      |###Programming lan|
+| ---------------------- | ------------- |
+| Abubakar Sani          | Javascript  |
+| Usman Aliyu            | R           |
+| Asiya Tijjani Abubakar |javascript   |
+| Jamila Adam Zakariya    | C++  |
+| Ahmad Muhammad          | Content Cell  |
+|Jabir Ahmad Karia        | Content Cell  |
+| Aliyu Ibrahim           | Content Cell  |
+| Mudassir Alhassan       | Content Cell  |
+|  Usman Saidu            | Content Cell  |
+| shuaibu sadiq Noma      | Content Cell  |
+| Muhammad YUsuf Saidu    | Content Cell  |
+| Abbakar Ibrahim Ahmad   | Content Cell  |
+| Michael Bulus Alpha     | Content Cell  |
+| Ismail Bashi            | Content Cell  |
+| Umar Abbakar Sadiq      | Content Cell  |
+
+
+
+
+
+
+
 
 
 ## WORKFLOW
