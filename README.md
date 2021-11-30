@@ -43,10 +43,10 @@ The group collaboratly work together to see they conducted the project as expect
 | Usman Aliyu            | R           |
 | Asiya Tijjani Abubakar |C++   |
 | Jamila Adam Zakariya    | C++  |
-| Ahmad Muhammad          | Content Cell  |
-|Jabir Ahmad Karia        | Content Cell  |
-| Aliyu Ibrahim           | Content Cell  |
-| Mudassir Alhassan       | Content Cell  |
+| Ahmad Muhammad          | R  |
+|Jabir Ahmad Karia        | perl  |
+| Aliyu Ibrahim           | java  |
+| Mudassir Alhassan       | R  |
 |  Usman Saidu            | Content Cell  |
 | shuaibu sadiq Noma      | Content Cell  |
 | Muhammad YUsuf Saidu    | python |
