@@ -39,9 +39,9 @@ The group collaboratly work together to see they conducted the project as expect
 
 | NAMES                  |PROGRAMMING LANG|
 | ---------------------- | -------------  |
-| Abubakar Sani          | Javascript  |
+| Abubakar Sani          | bash  |
 | Usman Aliyu            | R           |
-| Asiya Tijjani Abubakar |javascript   |
+| Asiya Tijjani Abubakar |C++   |
 | Jamila Adam Zakariya    | C++  |
 | Ahmad Muhammad          | Content Cell  |
 |Jabir Ahmad Karia        | Content Cell  |
@@ -49,10 +49,10 @@ The group collaboratly work together to see they conducted the project as expect
 | Mudassir Alhassan       | Content Cell  |
 |  Usman Saidu            | Content Cell  |
 | shuaibu sadiq Noma      | Content Cell  |
-| Muhammad YUsuf Saidu    | Content Cell  |
+| Muhammad YUsuf Saidu    | python |
 | Abbakar Ibrahim Ahmad   | Content Cell  |
-| Michael Bulus Alpha     | Content Cell  |
-| Ismail Bashi            | Content Cell  |
+| Michael Bulus Alpha     | php |
+| Ismail Bashir            |   |
 | Umar Abbakar Sadiq      | Content Cell  |
 
 
