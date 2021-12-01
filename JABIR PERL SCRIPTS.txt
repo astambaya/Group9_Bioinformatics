@@ -1,0 +1,1 @@
+﻿say("Name:JABIR AHMED KARIA"); say("EMAIL:kariajabir@gmail.com"); say("Slack:@JABIR AHMED KARIA"); say("INTEREST:COMPUTATIONAL BIOLOGY");
