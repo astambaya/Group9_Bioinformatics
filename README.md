@@ -39,7 +39,7 @@ The group collaboratly work together to see they conducted the project as expect
 
 | NAMES                  |PROGRAMMING LANG|
 | ---------------------- | -------------  |
-| Abubakar Sani          | bash  |
+| Abubakar Sani          | Bash  script|
 | Usman Aliyu            | R           |
 | Asiya Tijjani Abubakar |C++   |
 | Jamila Adam Zakariya    | C++  |
