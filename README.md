@@ -62,6 +62,21 @@ The group collaboratly work together to see they conducted the project as expect
 
 
 
+![WhatsApp Image 2021-12-01 at 6 54 20 AM](https://user-images.githubusercontent.com/95075715/144183999-8bf6ddba-b669-450e-9b5e-aa59862a9db6.jpeg)
+
+## HELP
+
+The Work is successfully done using different guides such as lecture Notes, You tube videos, help of some programmers and sharing of ideas from group members.
+
+
+## ACKNOWLEDGMENT
+First and foremost,  we would like to thank Almighty Allah for giving us this golden opportunity to conduct this C.A successfully , we would like to express our special thanks of gratitude to our mentor who provided us with invaluable advice and helped though out the assessment in person of Dr. Umar Ahmad Phd, his motivation and help contributed tremendously to the successful completion of this continues assessment.
+Also, we’ll like to mention the support system and consideration of our parents who have always been there in our life, may Allah S.W.T reward then abundantly.
+A sincere appreciation goes to the group nine members for their hard working to see we raise the level of simplicity into something concrete.
+We make this assessment not only for marks but to also increase our knowledge.
+Last but not the least, a special thanks goes to friends especially group3, 2 and 7 leaders who always been there by our side.
+Without them, we could never have completed this task.
+Thanks allot.
 
 
 
