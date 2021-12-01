@@ -58,10 +58,17 @@ The group collaboratly work together to see they conducted the project as expect
 
 
 
-
-
-
-
-
 ## WORKFLOW
+
+
+[Github workflow.pdf](https://github.com/astambaya/Group9_Bioinformatics/files/7629986/Github.workflow.pdf)
+
+
+
+
+
+
+
+
+
 
