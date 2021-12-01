@@ -50,10 +50,10 @@ The group collaboratly work together to see they conducted the project as expect
 |Jabir Ahmad Karia        | perl  |
 | Aliyu Ibrahim           | java  |
 | Mudassir Alhassan       | R  |
-|  Usman Saidu            | Content Cell  |
-| shuaibu sadiq Noma      | Content Cell  |
+|  Usman Saidu            | python  |
+| shuaibu sadiq Noma      | Bash Script  |
 | Muhammad YUsuf Saidu    | python |
-| Abbakar Ibrahim Ahmad   | Content Cell  |
+| Abbakar Ibrahim Ahmad   |   |
 | Michael Bulus Alpha     | php |
 | Ismail Bashir            |   |
 | Umar Abbakar Sadiq      | Content Cell  |
