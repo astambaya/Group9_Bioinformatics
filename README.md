@@ -30,7 +30,7 @@ The group collaboratly work together to see they conducted the project as expect
 9. Usman Saidu
 10. shuaibu s Noma
 11. Muhammad YUsuf Saidu
-12. Abbakar Ibrahim Ahmad
+12. Abubakar Ibrahim Ahmad
 13. Michael Bulus Alpha
 14. Ismail Bashi
 15. Umar Abbakar Sadiq
@@ -53,7 +53,7 @@ The group collaboratly work together to see they conducted the project as expect
 |  Usman Saidu            | python  |
 | shuaibu sadiq Noma      | Bash Script  |
 | Muhammad YUsuf Saidu    | python |
-| Abbakar Ibrahim Ahmad   |   |
+| Abubakar Ibrahim Ahmad   | python |
 | Michael Bulus Alpha     | php |
 | Ismail Bashir            | C++  |
 | Umar Abbakar Sadiq      | Content Cell  |
