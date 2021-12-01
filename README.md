@@ -55,7 +55,7 @@ The group collaboratly work together to see they conducted the project as expect
 | Muhammad YUsuf Saidu    | python |
 | Abbakar Ibrahim Ahmad   |   |
 | Michael Bulus Alpha     | php |
-| Ismail Bashir            |   |
+| Ismail Bashir            | C++  |
 | Umar Abbakar Sadiq      | Content Cell  |
 
 
