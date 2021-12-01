@@ -77,9 +77,14 @@ We make this assessment not only for marks but to also increase our knowledge.
 Last but not the least, a special thanks goes to friends especially group3, 2 and 7 leaders who always been there by our side.
 Without them, we could never have completed this task.
 Thanks allot.
+![WhatsApp Image 2021-12-01 at 7 06 12 AM](https://user-images.githubusercontent.com/95075715/144185225-aed7bca5-374f-4b0a-9408-6f1dc19106eb.jpeg)
 
 
 
+## PICTURES OF GROUP MEMBERS
+
+
+![Uploading WhatsApp Image 2021-12-01 at 7.06.12 AM.jpeg…]()
 
 
 
