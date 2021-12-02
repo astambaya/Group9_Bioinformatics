@@ -8,7 +8,7 @@
 
 
 ## About the Group 
-This is repository for the group9 bioinformatics for the continue assessment as organized by the team members of the group. it is collaborative work for the continue assessment  
+This is repository for the group9 bioinformatics for the continue assessment as organized by the team members of the group. it is collaborative work for the continue assessment, this Repo belong to Group9 bioinformarics. This Readme contain names of the members, language they use for the necessaru completion of the assessment.  
 
 
 
