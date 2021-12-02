@@ -8,8 +8,7 @@
 
 
 ## About the Group 
-This is group nine, which is lead by Abubakar Sani, it consist of 15 members. 
-The group collaboratly work together to see they conducted the project as expected by the lecturer.
+This is repository for the group9 bioinformatics for the continue assessment as organized by the team members of the group. it is collaborative work for the continue assessment  
 
 
 
@@ -82,13 +81,6 @@ Without them, we could never have completed this task.
 Thanks allot.
 
 
-
-## PICTURES OF GROUP MEMBERS
-
-
-
-
-![Uploading WhatsApp Image 2021-12-01 at 7.06.12 AM.jpeg…]()
 
 
 
