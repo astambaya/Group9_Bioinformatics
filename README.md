@@ -56,7 +56,7 @@ Bioinformatics is a course which specializes in the science of collecting and an
 | Abubakar Ibrahim Ahmad   | python |
 | Michael Bulus Alpha     | php |
 | Ismail Bashir            | C++  |
-| Umar Abbakar Sadiq      | Content Cell  |
+| Umar Abbakar Sadiq      |   |
 
 
 
