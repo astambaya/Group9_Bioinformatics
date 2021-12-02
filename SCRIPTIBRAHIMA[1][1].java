@@ -1,9 +1,2 @@
-public class SCRIPTIBRAHIM{
-	public static void main(String[] args){
-		System.out.println("Name: ALIYU IBRAHIM ");
-		System.out.println("Email: ai81@gmail.com");
-		System.out.println("Slack Username: @ALIYU IBRAHIM");
-		System.out.println("Area of Interest: GENOMICS");
-		
-	}
-} 
+#!/usr/bin/env bash
+Echo "ALIYU IBRAHIM,Email: ai81@gmail.com,@ALIYU IBRAHIM,Area of Interest GENOMICS"
